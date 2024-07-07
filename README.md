@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aswathy2602
 - 👀 I’m interested in web technologies
 - 🌱 I’m currently pursuing Master of Computer Science
-- 📫 How to reach me aswathyg121@gmail.com
+- 📫 How to reach me aswathygopalakrishnan2002@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
